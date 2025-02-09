@@ -145,5 +145,12 @@ export const LANGUAGES = [
     flag: "https://hatscripts.github.io/circle-flags/flags/pk.svg",
     api: "https://ur.wikipedia.org/w/api.php?",
     article: "https://ur.wikipedia.org/wiki/",
+  },
+    {
+    id: "ko",
+    name: "한글",
+    flag: "https://hatscripts.github.io/circle-flags/flags/kr.svg",
+    api: "https://ko.wikipedia.org/w/api.php?",
+    article: "https://ko.wikipedia.org/wiki/",
   }
 ];
